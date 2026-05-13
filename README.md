@@ -166,7 +166,7 @@ The goal behind this project was not only building an ecommerce website, but cre
 
 <br/>
 
-## Abderrahmane Ouafso
+## Abderrahmane Ouafsou
 - 💼 LinkedIn: https://www.linkedin.com/in/abderrahmane-ouafsou
 - 🐙 GitHub: https://github.com/abouafso
 
