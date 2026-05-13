@@ -49,45 +49,47 @@ The project was designed with a strong focus on:
 
 ## 🛍️ Store Experience
 
-<img width="1434" height="812" alt="Store" src="<img width="1440" height="809" alt="image" src="https://github.com/user-attachments/assets/830ab7a6-3dd4-42f1-a17c-ece443abd893" />" />
-<img width="1434" height="812" alt="Store" src="![Uploading image.png…]()" />
+<img width="1440" height="809" alt="image" src="https://github.com/user-attachments/assets/830ab7a6-3dd4-42f1-a17c-ece443abd893" />
+<img width="1437" height="809" alt="image" src="https://github.com/user-attachments/assets/6d4139fb-9d40-443e-a941-a801516e4bb6" />
+<img width="1440" height="813" alt="image" src="https://github.com/user-attachments/assets/cb6b011a-5135-48b6-8b7e-9a72482d78d5" />
 
-<img width="1429" height="389" alt="Products" src="![Uploading image.png…]()
-" />
+
+
 
 ---
 
 ## 📱 Product Pages
 
-<img width="1432" height="813" alt="Product" src="https://github.com/user-attachments/assets/f85bbee6-0ced-45f4-94b9-27c141867cc1" />
+<img width="1437" height="811" alt="image" src="https://github.com/user-attachments/assets/7953e171-48e2-454c-b7d8-eb290404d4eb" />
+<img width="1440" height="812" alt="image" src="https://github.com/user-attachments/assets/55263b94-4c75-4545-8132-58e60fe4baa0" />
 
-<img width="1440" height="783" alt="Details" src="https://github.com/user-attachments/assets/f6827831-16ae-4cdf-8fac-35a6951cba8f" />
 
 ---
 
 ## ⚙️ Admin Dashboard
+<img width="1440" height="808" alt="image" src="https://github.com/user-attachments/assets/ab2fe83e-e4d8-4887-a9b7-909bb2d77d4f" />
+<img width="1439" height="811" alt="image" src="https://github.com/user-attachments/assets/e83f7078-1846-40ba-94e3-b24bc9a1dd66" />
+<img width="1439" height="813" alt="image" src="https://github.com/user-attachments/assets/89de4f62-3aea-494d-8b53-5782f97d145f" />
+<img width="1439" height="810" alt="image" src="https://github.com/user-attachments/assets/32407141-46af-4f02-bd6d-0de5cdc63d4a" />
 
-<img width="1440" height="811" alt="Admin" src="https://github.com/user-attachments/assets/ba2a0086-eb07-4671-9702-35355ba5463d" />
 
-<img width="1440" height="811" alt="Dashboard" src="https://github.com/user-attachments/assets/14618ce2-3c53-4c1a-a6bf-eb384e8d6be7" />
-
-<img width="1439" height="808" alt="Orders" src="https://github.com/user-attachments/assets/ce31ccc5-59e1-4bdb-acf3-af2219f5309a" />
-
-<img width="1440" height="810" alt="Products Management" src="https://github.com/user-attachments/assets/9da0c66a-3928-4532-b0a3-b2db08a58545" />
 
 ---
 
 ## 📦 Product Management
+<img width="1439" height="810" alt="image" src="https://github.com/user-attachments/assets/7c0ed374-f231-48c5-b75c-38eee4405b04" />
+<img width="278" height="811" alt="image" src="https://github.com/user-attachments/assets/422748d6-07ea-4828-885a-7977992b6c58" />
+<img width="908" height="538" alt="image" src="https://github.com/user-attachments/assets/ef6e23c8-f885-4270-b36f-86195c7d4c1d" />
+<img width="923" height="787" alt="image" src="https://github.com/user-attachments/assets/4f4a1857-a3e2-431b-9dda-481b88d63a3c" />
+<img width="951" height="815" alt="image" src="https://github.com/user-attachments/assets/9bd55781-d735-42b3-97b7-c4948d99ba14" />
 
-<img width="1437" height="816" alt="Management" src="https://github.com/user-attachments/assets/f85f3eb5-4111-4022-827b-b80e3dc5f502" />
-
-<img width="1440" height="817" alt="Inventory" src="https://github.com/user-attachments/assets/2a7cd6d8-f560-409d-9e1b-f6b76258dba0" />
 
 ---
 
 ## 📊 Analytics & Monitoring
-
-<img width="1440" height="816" alt="Analytics" src="https://github.com/user-attachments/assets/1943e8e1-8658-4575-bcaa-cb94e89c3861" />
+<img width="1440" height="555" alt="image" src="https://github.com/user-attachments/assets/48a6e6a4-9dbd-45b0-9929-582c112f4f3b" />
+<img width="1440" height="816" alt="image" src="https://github.com/user-attachments/assets/e02a19f6-1add-4775-8e5d-95d7aafc31d5" />
+<img width="1429" height="490" alt="image" src="https://github.com/user-attachments/assets/9c9a744d-56f7-44cb-a44d-c963ff34d925" />
 
 ---
 
