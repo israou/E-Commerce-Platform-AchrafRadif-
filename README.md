@@ -32,10 +32,17 @@ The project was designed with a strong focus on:
 
 # 🖼️ Preview
 
-## 🏠 Home Page
+## 🏠 Home Page — Dark Mode
 
-<img width="1440" height="810" alt="image" src="https://github.com/user-attachments/assets/c6a46434-32ff-4ff3-ad52-d0cd5f6d6c4b" />" 
-<img width="1440" height="810" alt="image" src="![Uploading image.png…]()" />
+<img width="1440" height="810" alt="Home Dark" src="https://github.com/user-attachments/assets/c6a46434-32ff-4ff3-ad52-d0cd5f6d6c4b" />
+
+---
+
+## ☀️ Home Page — Light Mode
+
+<img width="1440" height="810" alt="Home Light" src="https://github.com/user-attachments/assets/830ab7a6-3dd4-42f1-a17c-ece443abd893" />
+
+> Smooth animated hero section with dynamic light/dark mode experience.
 
 ---
 
