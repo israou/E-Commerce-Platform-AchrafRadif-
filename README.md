@@ -34,8 +34,8 @@ The project was designed with a strong focus on:
 
 ## 🏠 Home Page
 
-<img width="1439" height="861" alt="Home" src="<img width="1440" height="810" alt="image" src="https://github.com/user-attachments/assets/c6a46434-32ff-4ff3-ad52-d0cd5f6d6c4b" />" />
-<img width="1439" height="861" alt="Home" src="<img width="1440" height="811" alt="image" src="https://github.com/user-attachments/assets/87a7b2c4-7eb3-401b-bf28-d6b3528800a1" />" />
+<img width="1440" height="810" alt="image" src="https://github.com/user-attachments/assets/c6a46434-32ff-4ff3-ad52-d0cd5f6d6c4b" />" 
+<img width="1440" height="810" alt="image" src="![Uploading image.png…]()" />
 
 ---
 
