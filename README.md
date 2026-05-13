@@ -34,15 +34,18 @@ The project was designed with a strong focus on:
 
 ## 🏠 Home Page
 
-<img width="1439" height="861" alt="Home" src="![Uploading image.png…]()" />
+<img width="1439" height="861" alt="Home" src="<img width="1440" height="810" alt="image" src="https://github.com/user-attachments/assets/c6a46434-32ff-4ff3-ad52-d0cd5f6d6c4b" />" />
+<img width="1439" height="861" alt="Home" src="<img width="1440" height="811" alt="image" src="https://github.com/user-attachments/assets/87a7b2c4-7eb3-401b-bf28-d6b3528800a1" />" />
 
 ---
 
 ## 🛍️ Store Experience
 
-<img width="1434" height="812" alt="Store" src="https://github.com/user-attachments/assets/8f44c59b-be93-4ac5-93a8-440bbc974eb0" />
+<img width="1434" height="812" alt="Store" src="<img width="1440" height="809" alt="image" src="https://github.com/user-attachments/assets/830ab7a6-3dd4-42f1-a17c-ece443abd893" />" />
+<img width="1434" height="812" alt="Store" src="![Uploading image.png…]()" />
 
-<img width="1429" height="389" alt="Products" src="https://github.com/user-attachments/assets/fae31df5-2cd8-4c3b-bce5-39b6292b517f" />
+<img width="1429" height="389" alt="Products" src="![Uploading image.png…]()
+" />
 
 ---
 
